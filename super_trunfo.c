@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//desafio super trunfo - novato
 int main() {
     // Variáveis
     char estado; 
